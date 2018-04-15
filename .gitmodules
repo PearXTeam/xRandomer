@@ -1,0 +1,6 @@
+[submodule "PearXLib2"]
+	path = PearXLib2
+	url = https://github.com/PearXTeam/PearXLib2
+[submodule "CarbideLib"]
+	path = CarbideLib
+	url = https://github.com/PearXTeam/CarbideLib
